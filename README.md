@@ -31,7 +31,7 @@ The time measurements show noticable variance from run to run.  Linux is general
 ### CSI Measurements
 
 * input: 6.7 microseconds (lseek/read) - sample rate of 149 KHz
-* output: 2.8 microseconds (write) - 178 KHz
+* output: 2.8 microseconds (write) - 178 KHz square wave
 
 You can find gpiotime at:
 
